@@ -10,5 +10,4 @@ Reminders to myself to stay in a growth mindset are:
 - *Never give up*
 - *Remember my 'Why"*
 
-https://github.com/Ladykamillion27/reading-notes.git
-
+https://ladykamillion27.github.io/reading-notes/
