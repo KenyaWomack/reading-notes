@@ -10,6 +10,6 @@ Reminders to myself to stay in a growth mindset are:
 - *Never give up*
 - *Remember my 'Why"*
 
-https://ladykamillion27.github.io/reading-notes/
+https://kenyawomack.github.io/reading-notes/
 
 ![This is an image](https://cdn.shopify.com/s/files/1/0070/7032/files/Fearless_Motivational_Quote_Desktop_Wallpaper_1.png?format=jpg&quality=90&v=1600450412)
