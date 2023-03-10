@@ -26,4 +26,4 @@ https://www.scaler.com/topics/css/css-grid-vs-flexbox/#:~:text=Disadvantages%20o
 
 ## How does this topic connect with your long term goals?
 
-It will help me better understand CSS coding to becime a better web developer.
+It will help me better understand CSS coding to become a better web developer.
