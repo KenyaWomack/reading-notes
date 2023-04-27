@@ -1,61 +1,21 @@
-# Authentication
+# Diversity & Inclusion in the Tech Industry
 
-## What is OAuth?
+## What occurred during the same time as the beginning of the decline of women in computer science?
 
- allows a user to grant a third-party application access to their resources without revealing their login credentials
+The 1980s saw the rise of personal computers, which were initially marketed as toys for boys. This created a cultural shift where computers were seen as something for men and boys, not for women and girls.
 
- ## Give an example of what using OAuth would look like.
+## Why does it matter that males had been playing on computers growing up?
 
- The user clicks the "Sign in with Google" button in your app.
-Your app sends a request to Google's OAuth service, asking for permission to access the user's Google account.
-Google prompts the user to log in and approve the request.
-If the user approves the request, Google sends your app an "access token" that your app can use to access the user's Google account.
-Your app uses the access token to retrieve the user's Google profile information (such as their name and email address) and create a new account for them within your app.
+ it created a cultural association between computing and masculinity.
 
-## How does OAuth work? What are the steps that it takes to authenticate the user?
+ ## When are diversity efforts most successful?
 
-The user initiates a request to access a protected resource on the server.
+ Diversity efforts can be most successful when they are integrated into an organization's core values, practices, and culture
 
-The server responds with a request for authentication from the client application.
+ ## Why do diverse companies perform better?
 
-The client application redirects the user to the server's authorization endpoint with its client identifier.
+ Increased creativity and innovation: Diverse teams bring together individuals with different backgrounds, perspectives, and experiences. This can lead to more creative and innovative problem-solving, as diverse individuals bring unique ideas and insights to the table.
 
-The user grants permission to the client application to access their protected resources.
+ ## Give an example of how a diverse company can serve a diverse user base or vise-versa.
 
-The server issues an access token to the client application after verifying the user's identity.
-
-The client application presents the access token to the server to access the user's protected resources.
-
-The server validates the access token and returns the requested resource.
-
-## What is OpenID?
-
-an authentication protocol that allows users to authenticate across multiple websites and applications without having to create and remember separate login credentials for each one.
-
-## What is the difference between authorization and authentication?
-
-Authentication is the process of verifying the identity of a user, device, or application attempting to access a system or resource. Authorization, on the other hand, is the process of determining whether an authenticated user, device, or application has the appropriate permissions and privileges to access a specific resource or perform a particular action.
-
-## What is Authorization Code Flow?
-
- used to obtain an access token to access protected resources on behalf of a user
-
-## What is Authorization Code Flow with Proof Key for Code Exchange (PKCE)?
-
- an extension to the standard Authorization Code Flow used for OAuth 2.0 authorization. 
-
-## What is Implicit Flow with Form Post?
-
-  flow that is used for client-side web applications. It is similar to the Implicit Flow, but with an added security feature.
-
-## What is Client Credentials Flow?
-
-  allows clients to directly request an access token from the authorization server using only their client credentials, without involving any end-user interaction
-
-## What is Device Authorization Flow?
-
-  allows devices with no web browser or low input capability to obtain user authorization.
-
-## What is Resource Owner Password Flow?
-
-  allows a client to authenticate a user and obtain an access token by using the user's username and password directly
+ a diverse mobile phone company might create a mobile phone with text-to-speech software to make it accessible to visually impaired users, They might also offer multiple language options and translation services to better serve users who speak different languages.
