@@ -64,3 +64,12 @@ Reminders to myself to stay in a growth mindset are:
 - [Link to Class 13](301notes/class13.md)
 - [Link to Class 14](301notes/class14.md)
 - [Link to Class 15](301notes/class15.md)
+
+### Code 401 Reading Notes
+
+- [Link to Class 1](401notes/class1.md)
+- [Link to Class 2](401notes/class2.md)
+- [Link to Class 3](401notes/class3.md)
+- [Link to Class 4](401notes/class4.md)
+- [Link to Class 5](401notes/class5.md)
+
