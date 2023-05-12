@@ -15,6 +15,7 @@ Reminders to myself to stay in a growth mindset are:
 [click here to go to my website](https://github.com/kenyawomack)
 
 ![This is an image](https://cdn.shopify.com/s/files/1/0070/7032/files/Fearless_Motivational_Quote_Desktop_Wallpaper_1.png?format=jpg&quality=90&v=1600450412)
+![sqlpractice](sql.png)
 
 ## Table Of Contents
 
