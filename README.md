@@ -114,6 +114,7 @@ Reminders to myself to stay in a growth mindset are:
 - [Link to growthmindset](401notes/growthmindset.md)
 - [Link to SQL](401notes/SQL.md)
 - [Link to terminalpractices](401notes/terminalpractices.md)
-
+- [Link to datastructure](401notes/datastructure.md)
+- [Link to engineeringreading](401notes/engineeringreading.md)
 
 
