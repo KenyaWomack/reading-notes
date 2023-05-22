@@ -116,5 +116,5 @@ Reminders to myself to stay in a growth mindset are:
 - [Link to terminalpractices](401notes/terminalpractices.md)
 - [Link to datastructure](401notes/datastructure.md)
 - [Link to engineeringreading](401notes/engineeringreading.md)
-
+- [Link to trees](401notes/trees.md)
 
