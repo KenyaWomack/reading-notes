@@ -17,3 +17,6 @@ Objective: Develop a quiz application that presents multiple-choice questions an
 
 Description: Work together with your partner to create a quiz application using HTML, CSS, and JavaScript. Define a set of questions and their corresponding options and correct answers. Use JavaScript to implement the logic for displaying the questions, handling user input, and providing immediate feedback on whether the selected answer is correct or not. Track and display the user's score at the end of the quiz. Apply CSS styling to make the quiz visually appealing and intuitive to use.
 
+What are your learning goals after reading and reviewing the class README?
+
+I hope to do great with my project
