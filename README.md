@@ -102,7 +102,7 @@ Reminders to myself to stay in a growth mindset are:
 - [Link to Class 32](401notes/class32.md)
 - [Link to Class 33](401notes/class33.md)
 - [Link to Class 34](401notes/class34.md)
-- [Link to Class 35](401notes/class35.md)
+- [Link to graphs](401notes/graphs.md)
 - [Link to Class 36](401notes/class36.md)
 - [Link to Class 37](401notes/class37.md)
 - [Link to Class 38](401notes/class38.md.)
