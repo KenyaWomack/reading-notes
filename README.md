@@ -119,3 +119,4 @@ Reminders to myself to stay in a growth mindset are:
 - [Link to trees](401notes/trees.md)
 -[Link to Hash](401notes/hashtables.md)
 
+-[Link to class 40b](401notes/class%2040b.md)
